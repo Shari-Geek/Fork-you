@@ -1,6 +1,6 @@
 # Fork-you
 Class Fork Lab activities
-Name: Sean McGinley https://github.com/McGinSean
-•	Place: Chanhassen, Minnesota
+Name: Orpheus Gray https://github.com/grayo91
+•	Place: Duluth, GA
 •	Bio: Just a Tech Guy
-•	GitHub: Sean McGinley https://github.com/McGinSean
+•	GitHub: Orpheus Gray https://github.com/grayo91
