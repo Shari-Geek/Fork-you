@@ -4,3 +4,8 @@ Name: Sean McGinley https://github.com/McGinSean
 •	Place: Chanhassen, Minnesota
 •	Bio: Just a Tech Guy
 •	GitHub: Sean McGinley https://github.com/McGinSean
+
+Name: Kjell Hysjulien https://github.com/Kjellios
+•	Place: Plymouth, Minnesota
+•	Bio: Just another tech guy
+•	Kjell Hysjulien https://github.com/Kjellios
