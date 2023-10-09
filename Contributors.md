@@ -12,6 +12,12 @@ Name: Sean McGinley https://github.com/McGinSean
 •	Bio: Just a Tech Guy
 •	GitHub: Sean McGinley https://github.com/McGinSean
 
+
+Name: Michael Hocutt https://github.com/hocmicr
+Place Minnesota  
+Bio I'm me
+GitHub: https://github.com/hocmicr
+=======
 Name: Kjell Hysjulien https://github.com/Kjellios
 •	Place: Plymouth, Minnesota
 •	Bio: Just another tech guy
