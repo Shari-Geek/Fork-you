@@ -1,2 +1,2 @@
 # Fork-you
-Class Fork Lab activities
+Class Collaboration using Fork features of GitHub
